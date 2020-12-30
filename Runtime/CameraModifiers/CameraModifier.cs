@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace MichMond.Cinema.Modifier
 {
-    public class CameraModifier : MonoBehaviour
+    public class CameraModifier 
     {
         public CameraModifierType type;
     }
